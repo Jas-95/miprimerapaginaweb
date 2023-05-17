@@ -1,0 +1,12 @@
+.imagenes{
+  display: flex;
+  column-rule: 100px;
+  width: 50px;
+  height: 200px ;
+
+}
+h3{
+    font-family: fantasy;
+    text-align: justify;
+    font-size: medium; 
+}
